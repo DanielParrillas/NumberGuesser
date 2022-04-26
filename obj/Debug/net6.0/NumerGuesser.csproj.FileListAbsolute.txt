@@ -1,0 +1,30 @@
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\bin\Debug\net6.0\NumerGuesser.exe
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\bin\Debug\net6.0\NumerGuesser.deps.json
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\bin\Debug\net6.0\NumerGuesser.runtimeconfig.json
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\bin\Debug\net6.0\NumerGuesser.dll
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\bin\Debug\net6.0\NumerGuesser.pdb
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\obj\Debug\net6.0\NumerGuesser.csproj.AssemblyReference.cache
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\obj\Debug\net6.0\NumerGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\obj\Debug\net6.0\NumerGuesser.AssemblyInfoInputs.cache
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\obj\Debug\net6.0\NumerGuesser.AssemblyInfo.cs
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\obj\Debug\net6.0\NumerGuesser.csproj.CoreCompileInputs.cache
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\obj\Debug\net6.0\NumerGuesser.dll
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\obj\Debug\net6.0\refint\NumerGuesser.dll
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\obj\Debug\net6.0\NumerGuesser.pdb
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\obj\Debug\net6.0\NumerGuesser.genruntimeconfig.cache
+C:\Users\bap_8\Desktop\Daniel Pasante\testing\NumerGuesser\obj\Debug\net6.0\ref\NumerGuesser.dll
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\bin\Debug\net6.0\NumerGuesser.exe
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\bin\Debug\net6.0\NumerGuesser.deps.json
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\bin\Debug\net6.0\NumerGuesser.runtimeconfig.json
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\bin\Debug\net6.0\NumerGuesser.dll
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\bin\Debug\net6.0\NumerGuesser.pdb
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\obj\Debug\net6.0\NumerGuesser.csproj.AssemblyReference.cache
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\obj\Debug\net6.0\NumerGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\obj\Debug\net6.0\NumerGuesser.AssemblyInfoInputs.cache
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\obj\Debug\net6.0\NumerGuesser.AssemblyInfo.cs
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\obj\Debug\net6.0\NumerGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\obj\Debug\net6.0\NumerGuesser.dll
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\obj\Debug\net6.0\refint\NumerGuesser.dll
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\obj\Debug\net6.0\NumerGuesser.pdb
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\obj\Debug\net6.0\NumerGuesser.genruntimeconfig.cache
+C:\Users\Parry\Projects\Learning\C#\Examples\NumerGuesser\obj\Debug\net6.0\ref\NumerGuesser.dll
